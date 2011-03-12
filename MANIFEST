@@ -1,0 +1,16 @@
+Changes
+eg/Ryanair.pl
+eg/Slashdot.pl
+java/spidey/SkipFiles.java
+lib/WWW/HtmlUnit/jar/spidey-skipfiles-0.01.jar
+lib/WWW/HtmlUnit/Log4perl.conf
+lib/WWW/HtmlUnit/Spidey.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/01-google.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)

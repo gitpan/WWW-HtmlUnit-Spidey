@@ -1,0 +1,55 @@
+WWW::HtmlUnit::Spidey
+
+Spidey is a Perl wrapper of HtmlUnit for web scraping.
+
+It sits on top of the CPAN module WWW::HtmlUnit but departs from any
+Mechanize-ish syntax.
+
+It is for all those that need enough JavaScript support but don't like Java
+and want to develop scalable web crawlers in Perl, working at a very abstract
+level just like when using a browser manually!
+
+Infact Spidey is much faster and robust than driving a real browser as with
+WWW::Mechanize::Firefox.
+
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc WWW::HtmlUnit::Spidey
+
+You can also look for information and tutorials at:
+
+    Spidey official web site
+        http://code.google.com/p/spidey
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=WWW-HtmlUnit-Spidey
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/WWW-HtmlUnit-Spidey
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/WWW-HtmlUnit-Spidey
+
+    Search CPAN
+        http://search.cpan.org/dist/WWW-HtmlUnit-Spidey/
+
+
+LICENSE AND COPYRIGHT
+
+Spidey is copyrighted by Antonio Bonifati and licensed under the Apache
+Licence, version 2.0. Full terms and conditions are available at:
+http://www.apache.org/licenses/LICENSE-2.0.html
